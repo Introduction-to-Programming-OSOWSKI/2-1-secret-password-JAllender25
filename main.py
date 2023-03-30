@@ -1,7 +1,7 @@
 def password():
     enteredPassword = input("what is the password?")
 
-    if enteredPassword == "butterfly":
+    if enteredPassword == "Knights19":
         print("ACCESS GRANTED")
 
     else:
